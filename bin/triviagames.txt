@@ -1,0 +1,60 @@
+art,Who is credited as the designer of the many statues which decorated the Parthenon?,A: Hesiod B: Praxiteles C: Scopas D: Phidias,d
+art,What artist was struck in the face with a mallet by an envious rival - disfiguring him for life?,A: Rembrandt B: Raphael C: Michelangelo D: Titian,c
+art,What artist is best known for a painting of his mother?,A: Francisco Goya B: James Abbot Mcneil Whistler C: Johannes Vermeer D: Pierre-Auguste Renoir,b
+art,What art movement was Yoko Ono associated with during the 1960s?,A: Futurism B: Post-impressionism C: Dadaism D: Fluxus,d
+art,How many paintings did Vincent Van Gogh sell during his lifetime?,A: 193 B: 1 C: 842 D:27,b
+art,To which artistic movement does Paul Gauguin's The Yellow Christ belong?,A: Orphism B: Bauhaus C: Cloisonnism D: Contextual modernism,c
+art,According to Vatican researcher Sabrina Sforza Galitzia - what does Leonardo da Vinci's The Last Supper predict?,A: Return of the messiah B: Location of the garden or Eden C: An apocalyptic flood D: First contact with aliens,c
+art,What artist sold a balloon dog for $58.4 million?,A: Jasper Johns B: Chirstopher Wool C: Jeff Koons D: Gerhart Richter,c
+art,Who was the court sculptor of Alexander the Great?,A: Vitruvius B: Praxiteles C: Apelles D: Lysippus,d
+art,Who painted the Mona Lisa?,A: Pablo Piccaso B: Leonado Da Vinci C: Rembardt D: Vincent Van Gogh,b
+history,Who said "Witches should be burned with their cat's" ?,A: Innocent Pope I B: King George C: Shakespeare D: Queen Victoria,a 
+history,Who was a queen of Russia?,A: Cleopatra B: Catherine the great C: Victoria I D: Jenny the I,b
+history,Who was fighting in the French and Indian war?, A: The French against the Indians B: The French and the Indians against England C: The French against England D: The Indians and England against the French,b
+history,When did Germany attack Poland ?, A: September 1 1939 B: December 7 1941 C: June 6 1944 D: August 6 1945,a
+history,How many men died in Stalingrad ?, A: 50 000 B: 250 000 C: 2000 D: 30 000,b
+history,What was the name of the German Airforce ?, A: RAF B: Luftwaffe C: Lufttansa D: Luftdruck,b
+history,The weapon the soldiers used to break into Troy was the Trojan _________?, A: Mule B: Taco C: Horse D: Dog,c
+history,Heinrich Scliemann discovered what ancient city?, A: Troy B: Crete C: Athens D: Olympia,a
+history,The Reason For The Trojan War was to kidnap whom back?,A: Aracne B: Helen C: Miss. Olympia D: Athena,b
+history,Which British General surrendered to George Washington to end the Revolutionary War (American War of Independence) in 1781?,A: Cornwallis B: Lafayette C: Churchill D: Jullius,a
+sport,With 15 921 runs, which international cricketer holds the record for the most Test runs?,A: Sachin Tendulkar B: Ricky Ponting C: Brian Lara D: Viv Richards,a
+sport,How many players have won 3 Brownlow medal awards - the highest individual honour in Australian Rules football?,A; 1 B: 2 C: 3 D: 4,d
+sport,At 9.58 seconds Usain Bolt holds the record for the fastest time in the 100 metre sprint - but which sprinter holds the female record with 10.49 seconds?,A: Marion Jones B: Shelly-Ann Fraser-Pryce C: Florence Griffith-Joyner D: Carmelita Jeter,c
+sport,U.S Baseball star Babe Ruth played for the Boston Red Sox - New York Yankees and which other baseball team?,A: Boston Braves B: Los Angeles Dodgers C: Philadelphia Phillies D: Cincinnati Reds,a
+sport,Which nation won Gold in women’s hockey at the 2012 London Olympics?,A: Netherlands B: Great Britain C: New Zealand D: U.S.A,a
+sport,Which golfer won the 2013 Masters Tournament in Augusta - Georgia?,A: Rory Mcllroy B: Phil Mickelson C: Adam Scott D: Tiger Woods,c
+sport,Which English Premier League football club supporters traditionally sing the song ‘You'll Never Walk Alone’ before commencement of the match?,A: Chelsea FC B: Manchester United C: Liverpool FC D: Leeds United FC,c
+sport,Which 2 male tennis players have the most Wimbledon singles titles: seven each?,A: Roger Federer and Andre Agassi B: Roger Federer and Raphael Nadal C:  Pete Sampras and Andre Agassi D: Roger Federer and Pete Sampras,4
+sport,Retired Australian thoroughbred racehorse - Black Caviar was undefeated in how many races?, A: 23 B: 24 C: 25 D: 26,c
+sport,Who is the only wrestler in WWE history to hold the title of champion for over 4,000 days?, A: John Cena B: Hulk Hogan C: Bob Blacklund D: Bruno Sammartino,d
+movie,How many dwarfs were with Snow White?, A: 7 B: 2 C: 6 D: 8,a
+movie,What color is the brick road Dorothy has to follow in 'The Wizard of Oz'?, A: Green B: Red C: Yellow D: Puce,c
+movie,Which person has NOT played James Bond in the series?, A: Daniel Craig B: George Lazenby C: Sean Connery D: Jim Carrey,d
+movie,The quote 'It's the Stay-Puft Marshmallow Man' is from what movie?, A: Fight Club B: Casablanca C: Ghostbusters D: Die Hard,c
+movie,The director of 'E.T. the Extra-Terrestrial' also directed which of the following films?, A: The Departed B: Poltergeist C: Ocean's Eleven D: Jaws,d
+movie,Who starred opposite Tom Hanks in 'Sleepless in Seattle'?, A: Joan Crawford B: Lisa Simpson C: Meg Ryan D: Natalie Portman,c
+movie,What was the name of the princess in 'The Princess Bride'?, A: Fiona B: Charlotte C: Vespa D: Buttercup,d
+movie,The villain from 'A Nightmare on Elm Street' is, A: Jason Voorhees B: John Kramer C: Freddy Krueger D: Steve Holt,c
+movie,Who played the lead male role in the movie Gone With the Wind?, A: Humphrey Bogart B: Clark Gable C: Cary Grant D: Spencer Tracy,b
+movie,In the movie 'The Shining' what is the name of the character portrayed by Jack Nicholson?, A: Charles Halloway B: Daryl Van Horne C: Jack Torrance D: Charlie Smith,c 
+music,Which composer lived between these years?, A: Franz Liszt	B: Antonin Dvorak C: George Greshwin D: Hector Berlioz,d
+music,These characters (Krusina, Ludmila, Marenka, Micha, Hata, Vasek, Jenik, Kecal and Esmeralda) are from which opera?, A: Orpheus in the Underworld B: The bartered Bride C: The Queen of Spades D: War and Peace,b
+music,The composer Modest Mussorgsky lived between which of these years?, A: 1839-1881 B: 1865-1957 C: 1792-1868 D: 1714-1788,a
+music,The classical music performer Sabine Meyer is mostly associated with which instrument?, A: Violin B: Clarinet D: Organ D: Classical Guitar,b
+music,This opera or operette Porgy and Bess (1935) is (mainly) set in which (present-day) country?, A: Australia B: South Africa C: USA D: United Kingdom,c
+music,What was the nationality of this composer?: Luigi Boccherini, A: French B: American C: Italian D: Spanish,c
+music,Who composed this piece of classical music?: Falstaff, A: Guiseppe Verdi B: Gioacchino Rossini C: Sergey Rachmanioff D: Richard Strauss,a
+music,Who composed this piece of classical music?: Olaf Trygvason, A: Bedrich Smetana B: Antonin Dvorak C: Edvard Grieg D: Josef Ivanovici,c
+music,Which word is missing from this opera title?: The Merry ___ (Lehár 1905), A: Walker B: Woman C: Widow D,c
+music,Who composed this piece of classical music?: The Hebrides,A: Richard Wagner B: Frederic Chopin C: Felix Mendelssohn D: Johann Sebastian Bach,c
+science,Which person is associated with the invention of piano?,A: William George Armstrong B: Bartolomeo Cristofori C: Samuel Guthrie D: Thomas Edison,b
+science,Fritz Pfleumer is associated with the invention or discovery of what?,A: Optical character recognition and flatbed scanner B: Magnetic Tape C: Wireless remote control D: Pendulum clock,b
+science,diabology is the study or science of what?, A: study of devils B: study of dialects C: study of cell nuclei D: study of language,a
+science,Which person is associated with Powered airplane?, A: Wilhelm Conrad Rontgen B: Orville and Wilbur Wright C: Alfred Nobel D:Nikola Tesla,b
+science,What specific isoline is described here?:Line of equal density, A:Isopycnal B: Isohyet C: Isothere D: Isohaline,a
+science,1834-1907 were the living years of which scientist or inventor?, A: Sigmund Freud B: Dmitri Mendeleev C: Alexander Fleming D: Nikola Tesla,b
+science,Dynamite is associated with this invention or discovery?, A: Dmitri Mendeleev B: Mikhail Kalashnikov C: Alfred Nobel D: Johann Gutenberg,c
+science,What letter or digit is represented by this Morse code signal: .. (di-dit)?, A: Y B: J C: I D: Q,c
+science,What is this study or science called?:study of origins of words, A: polemology B: spectrology C: metrology D: etymology,d
+science,What is this study or science called? study of teeth, A: odontology B: cytology C: oneirology D: thanatology,a
